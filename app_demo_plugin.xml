@@ -1,0 +1,5 @@
+<library path="lib/libAppDemo">
+    <class name="app_demo/AppDemo" type="app_demo::AppDemo" base_class_type="micros_swarm_framework::Application">
+        <description>micros_swarm_framework application demo.</description>
+    </class>
+</library>
