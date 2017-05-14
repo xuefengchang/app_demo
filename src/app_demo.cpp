@@ -21,6 +21,8 @@ ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSI
 */
 
 #include "app_demo/app_demo.h"
+//#include "swarm_lib/olfati_saber_flocking/include/olfati_saber_flocking.h"
+//#include "swarm_lib/pso/include/pso.h"
 
 // Register the application
 PLUGINLIB_EXPORT_CLASS(app_demo::AppDemo, micros_swarm_framework::Application)
